@@ -2,7 +2,7 @@
 
 🎓 Master of Science in Advanced Data Analytics – University of North Texas (GPA: 3.8)  
 📊 Data Analyst | Data Scientist | Machine Learning Engineer  
-📍 Texas, USA  
+📍 USA  
 
 ---
 
