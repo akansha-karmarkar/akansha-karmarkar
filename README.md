@@ -57,8 +57,7 @@ I specialize in building scalable data analytics solutions across enterprise sys
 ## 📫 Connect With Me
 
 📧 akarmarkar099@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/akansha-karmarkar/
 
 ---
 
-⭐ Currently seeking Data Analyst / Data Scientist opportunities.
+⭐ Currently seeking Data Analyst / Data Scientist / Machine Learning Engineer opportunities.
