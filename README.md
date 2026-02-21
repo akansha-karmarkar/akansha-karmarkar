@@ -1,5 +1,11 @@
+# Hi, I'm Akansha Karmarkar 👋
+
+🎓 Master of Science in Advanced Data Analytics – University of North Texas (GPA: 3.8)  
+📊 Data Analyst | Data Scientist | Machine Learning Engineer  
+📍 USA  
+
 # 💫 About Me:
-I specialize in building scalable data analytics solutions across enterprise systems. With experience analyzing 50M+ to 100M+ records, I design predictive models, optimize SQL pipelines, and engineer structured data workflows that improve performance and decision accuracy.<br><br>My work spans airline operations forecasting, healthcare revenue analytics, and campaign performance modeling. I combine machine learning, statistical analysis, and visualization to translate complex data into measurable business outcomes.
+I specialize in building scalable data analytics solutions across enterprise systems. With experience analyzing large data records, I design predictive models, optimize SQL pipelines, and engineer structured data workflows that improve performance and decision accuracy.<br><br>My work spans airline operations forecasting, healthcare revenue analytics, and campaign performance modeling. I combine machine learning, statistical analysis, and visualization to translate complex data into measurable business outcomes.
 
 
 ## 🌐 Socials:
@@ -12,30 +18,9 @@ I specialize in building scalable data analytics solutions across enterprise sys
 ![](https://nirzak-streak-stats.vercel.app/?user=akansha-karmarkar&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akansha-karmarkar&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akansha-karmarkar&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=akansha-karmarkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-# Hi, I'm Akansha Karmarkar 👋
-
-🎓 Master of Science in Advanced Data Analytics – University of North Texas (GPA: 3.8)  
-📊 Data Analyst | Data Scientist | Machine Learning Engineer  
-📍 USA  
-
----
-
-## 🚀 Professional Summary
-
-Data professional with 4+ years of experience analyzing large-scale healthcare, airline, and commercial datasets.  
-
-Experienced in processing 100M+ records, building predictive models (up to 97% accuracy), optimizing SQL queries (40% performance improvement), and designing executive dashboards used across 20+ countries.
 
 ---
 
