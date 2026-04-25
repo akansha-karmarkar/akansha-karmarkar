@@ -1,5 +1,5 @@
 <div align="center">
-<!-- HEADER BANNER - GitHub compatible -->
+<!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C1694F&height=200&section=header&text=Akansha%20Karmarkar&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20ML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1000&color=C1694F&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions+that+matter.;50M%2B+records+processed+at+American+Airlines.;LLM+automation+%7C+ETL+pipelines+%7C+Power+BI.;Always+looking+for+the+next+hard+problem." alt="Typing SVG" />
@@ -21,21 +21,11 @@
  
 ## ✦ About Me
  
-```python
-akansha = {
-    "name"       : "Akansha Karmarkar",
-    "location"   : "Denton, TX  →  United States",
-    "education"  : "MS Advanced Data Analytics · UNT  (GPA: 3.8 / 4.0)",
-    "background" : "Electronics & Telecom  →  Software Eng  →  Data Science",
-    "currently"  : "Data Analyst @ Bright Mind Enrichment, San Francisco",
-    "seeking"    : ["Data Analyst", "Data Scientist", "ML Engineer"],
-    "superpower" : "Turning messy 50M-row datasets into actionable insights"
-}
-```
+I'm a **Data Analyst & Scientist** based in Denton, TX, with 3+ years of experience turning complex datasets into decisions that actually move the needle. My background spans **machine learning, ETL engineering, SQL optimization, and business intelligence** — and I've worked across airline operations, healthcare pricing, and education technology.
  
-I started my journey in **electronics engineering** in Nagpur, India — which gave me a love for systems thinking. Data captured me completely, and I moved to the US to pursue my MS at the **University of North Texas**.
+I started in electronics engineering in Nagpur, India, which gave me a systems-thinking foundation. I then moved to the US to complete my **MS in Advanced Data Analytics at the University of North Texas (GPA: 3.8/4.0)**. Currently, I'm at **Bright Mind Enrichment** deploying LLM-driven automation and real-time Power BI dashboards. Before that, I processed **50M+ baggage records** at American Airlines and cut SQL query times by **30–40%** at Accenture.
  
-Since then I've processed **50M+ baggage records** at American Airlines, cut SQL query times by **30–40%** in healthcare pricing at Accenture, and now I'm deploying **LLM-driven automation** at Bright Mind Enrichment. The common thread: I care as much about the *decision* at the end as the model in the middle.
+I'm actively seeking **Data Analyst · Data Scientist · ML Engineer** roles where I can solve hard problems with data.
  
 ---
  
@@ -131,16 +121,16 @@ Since then I've processed **50M+ baggage records** at American Airlines, cut SQL
 ## 💼 Experience Timeline
  
 ```
-2025 – Present  │ 🟠 Data Analyst        @ Bright Mind Enrichment   San Francisco, CA
+2025 – Present  │ 🟠 Data Analyst        @ Bright Mind Enrichment    San Francisco, CA
                 │   LLM automation · Power BI dashboards · 100% SLA compliance
                 │
-Jan–May 2025    │ 🟠 Data Scientist       @ American Airlines         Denton, TX
+Jan–May 2025    │ 🟠 Data Scientist       @ American Airlines          Denton, TX
                 │   50M+ records · XGBoost / LightGBM · 12% late baggage reduction
                 │
-2021 – 2023     │ 🟢 Software Engineer    @ Accenture                 Pune, India
+2021 – 2023     │ 🟢 Software Engineer    @ Accenture                  Pune, India
                 │   SQL optimization · ETL pipelines · Healthcare pricing (100M+ rows)
                 │
-2019            │ 🟡 Data Analyst Intern  @ Quintessential Informatics Nagpur, India
+2019            │ 🟡 Data Analyst Intern  @ Quintessential Informatics  Nagpur, India
                 │   Tableau · Power BI · EDA · SQL
 ```
  
