@@ -21,11 +21,11 @@
  
 ## ✦ About Me
  
-I'm a **Data Analyst & Scientist** based in Denton, TX, with 3+ years of experience turning complex datasets into decisions that actually move the needle. My background spans **machine learning, ETL engineering, SQL optimization, and business intelligence** — and I've worked across airline operations, healthcare pricing, and education technology.
+I'm a **Data Analyst & Scientist** based in Denton, TX, with 4+ years of experience turning complex datasets into decisions that actually move the needle. My background spans **machine learning, ETL engineering, SQL optimization, and business intelligence** and I've worked across airline operations, healthcare pricing, and education technology.
  
 I started in electronics engineering in Nagpur, India, which gave me a systems-thinking foundation. I then moved to the US to complete my **MS in Advanced Data Analytics at the University of North Texas (GPA: 3.8/4.0)**. Currently, I'm at **Bright Mind Enrichment** deploying LLM-driven automation and real-time Power BI dashboards. Before that, I processed **50M+ baggage records** at American Airlines and cut SQL query times by **30–40%** at Accenture.
  
-I'm actively seeking **Data Analyst · Data Scientist · ML Engineer** roles where I can solve hard problems with data.
+I'm actively seeking **Data Analyst · Data Scientist · Analytics Engineer · BI Analyst · ML Engineer** roles where I can solve hard problems with data.
  
 ---
  
@@ -151,7 +151,7 @@ Jan–May 2025    │ 🟠 Data Scientist       @ American Airlines          Den
 ---
  
 <div align="center">
-*Open to Data Analyst · Data Scientist · ML Engineer roles*
+*Open to Data Analyst · Data Scientist · Analytics Engineer · BI Analyst · ML Engineer roles*
  
 <br/>
 <a href="https://linkedin.com/in/akansha-karmarkar">
